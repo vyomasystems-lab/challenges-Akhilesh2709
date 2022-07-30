@@ -6,7 +6,7 @@ from random import randint
 
 
 @cocotb.test()
-async def test_mux(dut):
+async def test_mux_inp12(dut):
     """Test for inp12"""
     dut.sel.value=12
     dut.inp12.value=random.randint(0,3)
