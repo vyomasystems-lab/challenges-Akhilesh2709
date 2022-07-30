@@ -14,8 +14,8 @@ async def test_mux(dut):
     dut.inp12.value=random.randint(0,3)
     await Timer (2,units='ns')
     assert dut.out.value== dut.inp12.value,f'mux output is incorrect:{dut.inp12.value}!={dut.out.value}'
-
-async def test_mux(dut):
+@cocotb.test()
+async def test_mux_inp30(dut):
     'Test for inp30'
     dut.sel.value=30
     dut.inp30.value=random.randint(0,3)
