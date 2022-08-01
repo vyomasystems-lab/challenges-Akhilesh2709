@@ -62,4 +62,4 @@ The updated design is checked in as mux.v
 ## Verification Strategy
 assigned an input value using assert statement for input 12 and input 30.
 ## Is the verification complete ?
-YES!!!
+YES!!! The inputs have been passed succesfully.
