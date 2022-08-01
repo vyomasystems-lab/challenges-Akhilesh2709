@@ -53,7 +53,7 @@ For the mux design, the logic for inp12 should be ``5'b01100 `` instead of ``5'b
 ## Design Fix
 Updating the design and re-running the test makes the test pass.
 
-![Screenshot (160)](https://user-images.githubusercontent.com/64627151/182179019-e2ab96d0-54f7-4113-bab7-d3f491748fb5.png)
+![Screenshot (168)](https://user-images.githubusercontent.com/64627151/182179383-c7394706-a7a4-4eac-928d-eba0265a257a.png)
 
 
 The updated design is checked in as mux.v
