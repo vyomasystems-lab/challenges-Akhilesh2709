@@ -1,7 +1,8 @@
 # MUX Design Verification
 
 The verification environment is setup using [Vyoma's UpTickPro](https://vyomasystems.com) provided for the hackathon.
-(https://user-images.githubusercontent.com/64627151/182175176-b4a4c00a-2a22-4f18-8365-81c078a02492.png)
+
+![Screenshot (166)](https://user-images.githubusercontent.com/64627151/182179778-4e5536ee-1f7c-4c1c-bf03-32505c2aacf6.png)
 
 ## Verification Environment
 
